@@ -52,12 +52,3 @@ int main(int argc, char const *argv[]){
     }
     return 0;
 }
-
-/*
-0 1 2
-2
-0[1] 1[1] 2[0]
-
-0[0] 1[2]
-
-*/
